@@ -5,7 +5,7 @@ coverY: 0
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
@@ -19,6 +19,8 @@ layout:
 ---
 
 # Welcome
+
+Hi there, some of the contents are GitBook template, kept for future ref... here we go...
 
 Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
 
