@@ -7,6 +7,10 @@
 * [Linux命令行](tech-notes/linux-ming-ling-xing.md)
 * [关于deepseek‐distill‐qwen‐32B的显存占用问题](tech-notes/guan-yu-deepseekdistillqwen32b-de-xian-cun-zhan-yong-wen-ti.md)
 
+***
+
+* [关于sudo运行python脚本时库文件找不到的问题](guan-yu-sudo-yun-xing-python-jiao-ben-shi-ku-wen-jian-zhao-bu-dao-de-wen-ti.md)
+
 ## Getting Started
 
 * [Quickstart](getting-started/quickstart.md)
