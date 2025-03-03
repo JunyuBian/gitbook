@@ -77,3 +77,23 @@ proxy_servers:
   https: https://xxx.xx.com:8080
 ssl_verify: false
 ```
+
+## \[netstat] 查看端口
+
+查看已经连接的服务端口（ESTABLISHED）：
+
+```bash
+netstat -a
+```
+
+查看所有的服务端口（LISTEN, ESTABLISHED）：
+
+```bash
+netstat -ap
+```
+
+关闭使用这个端口的程序：
+
+```bash
+kill -9 <PID>
+```
