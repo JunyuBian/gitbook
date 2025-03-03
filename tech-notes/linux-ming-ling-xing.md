@@ -97,3 +97,11 @@ netstat -ap
 ```bash
 kill -9 <PID>
 ```
+
+## \[pprint] 优雅打印数据结构
+
+```python
+from pprint import pprint
+
+pprint(vars)
+```
