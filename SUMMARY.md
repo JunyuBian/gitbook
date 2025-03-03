@@ -10,7 +10,7 @@
 ***
 
 * [关于sudo运行python脚本时库文件找不到的问题](guan-yu-sudo-yun-xing-python-jiao-ben-shi-ku-wen-jian-zhao-bu-dao-de-wen-ti.md)
-* [关于LlamaIndex里一个名字很唬人的NodeParser-SentenceWindowNodeParser](guan-yu-llamaindex-li-yi-ge-ming-zi-hen-hu-ren-de-nodeparsersentencewindownodeparser.md)
+* [关于LlamaIndex里名字很唬人的SentenceWindowNodeParser](guan-yu-llamaindex-li-ming-zi-hen-hu-ren-de-sentencewindownodeparser.md)
 
 ## Getting Started
 
