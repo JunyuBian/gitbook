@@ -25,7 +25,7 @@ build之前，需要确保依赖已经安装：`sudo apt install cmake libncurse
 
 转为openVINO并量化：`optimum-cli export openvino -m deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B ${MODEL_PATH}/deepseek-r1-distill-qwen-1.5b-openvino --weight-format int4`
 
-* \[docker] 配置代理
+## \[docker] 配置代理
 
 ```bash
 sudo mkdir -p /etc/systemd/system/docker.service.d
