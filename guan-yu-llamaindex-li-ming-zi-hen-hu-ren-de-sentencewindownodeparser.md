@@ -1,10 +1,10 @@
-# 关于LlamaIndex里一个名字很唬人的NodeParser-SentenceWindowNodeParser
+# 关于LlamaIndex里名字很唬人的SentenceWindowNodeParser
 
 这个NodeParser和传统理解的Window没有太大关系，作用其实是在进行parse的时候，带着一部分上下句的背景，叫做SentenceContextNodeParser更为合适。
 
 NodeParser里的Node，是文档的基本单元，可能是一个句子、段落或词语。
 
-网上看到的一个\[示例]\(https://blog.csdn.net/xycxycooo/article/details/141813794)，可以比较好地解释这个parser的功能：
+网上看到的一个[示例](https://blog.csdn.net/xycxycooo/article/details/141813794)，可以比较好地解释这个parser的功能：
 
 ```python
 # 示例文档
