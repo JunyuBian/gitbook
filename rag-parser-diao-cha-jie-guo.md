@@ -1,6 +1,6 @@
 # RAG Parser调查结果
 
-parser的实验结果我放在下面的表里了，主要是测试了\[文章]\([https://arxiv.org/abs/2410.09871](https://arxiv.org/abs/2410.09871))里（涵盖了我能找到的所有主流parser）的7种传统parser+2种有大模型辅助的parser。表格里面包括，调用parser的效果和对parser使用的总结，对比结果看：
+parser的实验结果我放在下面的表里了，主要是测试了[文章](https://arxiv.org/abs/2410.09871)里（涵盖了我能找到的所有主流parser）的7种传统parser+2种有大模型辅助的parser。表格里面包括，调用parser的效果和对parser使用的总结，对比结果看：
 
 1. 除了tabula只能处理表格，不符合使用场景，7种传统parser表现差别不大
 2. 两种大模型辅助的parser，我觉得不太符合RAG的应用场景：
