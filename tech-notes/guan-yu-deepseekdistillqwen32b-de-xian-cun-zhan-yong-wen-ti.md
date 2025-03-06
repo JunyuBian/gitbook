@@ -6,29 +6,29 @@
 
 A770的显存基本不会被占用，利用率也是0%：&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 进程列表里也看不到占用显存的进程：&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 回答问题时cpu占用率会稳定在800%上下，内存占用率在31.5%上下：&#x20;
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 2- generator的device设置为"auto"：
 
 A770的显存被占满，利用率偶尔出现一次65%左右的波动：&#x20;
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 进程列表里可以看到，edgecraftrag.server占用了20G上下的显存（123%）：&#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 回答问题时cpu占用率会稳定在70%上下，内存占用率在17.7%上下：&#x20;
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 我大概估算了一下，每10亿float32类型参数（4字节）会占用10^9\*4/1024/1024/1024 \~= 3.73G \~= 4G，依次可以推出：
 
