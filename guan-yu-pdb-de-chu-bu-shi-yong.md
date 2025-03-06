@@ -1,6 +1,6 @@
 # 关于pdb的初步使用
 
-\[pdb]\([https://docs.python.org/zh-cn/3.13/library/pdb.html](https://docs.python.org/zh-cn/3.13/library/pdb.html))可以用于分步骤执行、调试python程序。
+[pdb](https://docs.python.org/zh-cn/3.13/library/pdb.html)可以用于分步骤执行、调试python程序。
 
 使用的时候需要在程序中插入：
 
@@ -17,7 +17,7 @@ import pdb; pdb.set_trace()
 3 * 2 is 6
 ```
 
-具体使用的命令可以参考\[这篇总结]\([https://blog.csdn.net/qq\_43799400/article/details/122582895](https://blog.csdn.net/qq_43799400/article/details/122582895))，比较全面。
+具体使用的命令可以参考[这篇总结](https://blog.csdn.net/qq_43799400/article/details/122582895)，比较全面。
 
 看到网上还有另一种用法：
 
