@@ -14,6 +14,7 @@
 * [关于pdb的初步使用](guan-yu-pdb-de-chu-bu-shi-yong.md)
 * [RAG Parser调查结果](rag-parser-diao-cha-jie-guo.md)
 * [python Parser的一些使用方法](python-parser-de-yi-xie-shi-yong-fang-fa.md)
+* [关于OneBOM的收集（附脚本）](guan-yu-onebom-de-shou-ji-fu-jiao-ben.md)
 
 ## Getting Started
 
