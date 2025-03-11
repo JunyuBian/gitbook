@@ -105,3 +105,9 @@ from pprint import pprint
 
 pprint(vars)
 ```
+
+## \[lsof] 查询占用端口的进程号
+
+```bash
+sudo lsof -i :<port_number>
+```
