@@ -33,3 +33,7 @@
 ## life notes
 
 * [网购](life-notes/wang-gou.md)
+
+## people management
+
+* [在和Y博沟通中得到的启发](people-management/zai-heybo-gou-tong-zhong-de-dao-de-qi-fa.md)
