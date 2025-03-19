@@ -10,7 +10,7 @@ A770的显存基本不会被占用，利用率也是0%：&#x20;
 
 进程列表里也看不到占用显存的进程：&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 回答问题时cpu占用率会稳定在800%上下，内存占用率在31.5%上下：&#x20;
 
