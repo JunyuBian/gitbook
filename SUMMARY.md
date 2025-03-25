@@ -15,6 +15,7 @@
 * [RAG Parser调查结果](rag-parser-diao-cha-jie-guo.md)
 * [python Parser的一些使用方法](python-parser-de-yi-xie-shi-yong-fang-fa.md)
 * [关于OneBOM的收集（附脚本）](guan-yu-onebom-de-shou-ji-fu-jiao-ben.md)
+* [关于prompt格式对于大语言模型回答准确性的影响](guan-yu-prompt-ge-shi-dui-yu-da-yu-yan-mo-xing-hui-da-zhun-que-xing-de-ying-xiang.md)
 
 ## Getting Started
 
