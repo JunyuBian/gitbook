@@ -16,7 +16,7 @@
 * [python Parser的一些使用方法](python-parser-de-yi-xie-shi-yong-fang-fa.md)
 * [关于OneBOM的收集（附脚本）](guan-yu-onebom-de-shou-ji-fu-jiao-ben.md)
 * [Prompt Engineering Tips](prompt-engineering-tips.md)
-* [Page](page.md)
+* [关于Deepseek模型跳过思考过程的问题](guan-yu-deepseek-mo-xing-tiao-guo-si-kao-guo-cheng-de-wen-ti.md)
 
 ## Getting Started
 
