@@ -2,16 +2,6 @@
 
 * [Welcome](README.md)
 
-## cs
-
-* [Linux命令行](cs/linux-ming-ling-xing.md)
-* [关于sudo运行python脚本时库文件找不到的问题](cs/guan-yu-sudo-yun-xing-python-jiao-ben-shi-ku-wen-jian-zhao-bu-dao-de-wen-ti.md)
-* [关于pdb的初步使用](cs/guan-yu-pdb-de-chu-bu-shi-yong.md)
-
-***
-
-* [关于OneBOM的收集（附脚本）](guan-yu-onebom-de-shou-ji-fu-jiao-ben.md)
-
 ## LM
 
 * [关于deepseek‐distill‐qwen‐32B的显存占用问题](lm/guan-yu-deepseekdistillqwen32b-de-xian-cun-zhan-yong-wen-ti.md)
@@ -24,6 +14,16 @@
 ## cloud native
 
 * [关于kubernetes中label、namespace、annotation的思考](cloud-native/guan-yu-kubernetes-zhong-labelnamespaceannotation-de-si-kao.md)
+
+## cs
+
+* [Linux命令行](cs/linux-ming-ling-xing.md)
+* [关于sudo运行python脚本时库文件找不到的问题](cs/guan-yu-sudo-yun-xing-python-jiao-ben-shi-ku-wen-jian-zhao-bu-dao-de-wen-ti.md)
+* [关于pdb的初步使用](cs/guan-yu-pdb-de-chu-bu-shi-yong.md)
+
+***
+
+* [关于OneBOM的收集（附脚本）](guan-yu-onebom-de-shou-ji-fu-jiao-ben.md)
 
 ## Getting Started
 
