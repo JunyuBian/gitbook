@@ -8,7 +8,7 @@
 
 ## 原因分析
 
-在官方对于[这个问题进行说明的commit](https://github.com/deepseek-ai/DeepSeek-R1/commit/7ca5e1e7f75e12a1c561fffaa6aa686708f881ae)下面有对于原因的深入讨论，挺有价值的，虽然Aktsvigun的问题里预设的前提是错误的：
+在官方对于[这个问题进行说明的commit](https://github.com/deepseek-ai/DeepSeek-R1/commit/7ca5e1e7f75e12a1c561fffaa6aa686708f881ae)下面有对于原因的深入讨论，有一些价值，虽然Aktsvigun的问题里预设的前提是错误的，jiwangyihao的回答里的信息也是过时的/错误的：
 
 Aktsvigun问说，为什么强制以`<think>\n`开头可以解决空思考的问题（其实不能，需要以`<think>\n Okay`开头），他提出这个疑问是因为他看到空思考本身就是以`<think>\n`开头。
 
@@ -32,6 +32,10 @@ and `<think>`'s:
 ```
 
 LLM don't read a text like human dose, for DeepSeek-R1, '\n\n' and '\n' are different tokens.
+
+不知道他的tokenizer的信息从哪里找到的，但是在hf上deepseek的官方repo里（无论是r1还是蒸馏版r1）的tokenizer，和他提供的信息互相冲突，不过确实提供了一个考虑问题的思路。
+
+真实试验下来`<think>\n Okay` 和`<think>\n\n Okay` 都可以trigger思考过程，没有影响。
 
 ## 问题解决
 
