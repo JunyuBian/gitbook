@@ -46,7 +46,7 @@ LLM don't read a text like human dose, for DeepSeek-R1, '\n\n' and '\n' are diff
 
 有一些来自网友的解决方案，看起来也很优雅，先列举在这里，有时间进行尝试：
 
-1- [佬友zgccrui](https://linux.do/t/topic/404941/8)：
+1- [佬友zgccrui](https://linux.do/t/topic/404941/8) - done：
 
 ```
 # 角色定义
@@ -76,6 +76,8 @@ output_schema:
       - 标注潜在不确定性
       - 复杂概念使用类比解释
 ```
+
+试了，可以显示思考过程，但是不是最优秀的prompt，回答不会严格follow（基本没有follow）thinking\_flow。
 
 2- 佬友[琉璃清墨](https://linux.do/t/topic/404941/17)：
 
