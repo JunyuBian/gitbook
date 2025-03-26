@@ -46,3 +46,4 @@
 ## people management
 
 * [在和Y博沟通中得到的启发](people-management/zai-heybo-gou-tong-zhong-de-dao-de-qi-fa.md)
+* [关于项目中的模糊问题](people-management/guan-yu-xiang-mu-zhong-de-mo-hu-wen-ti.md)
