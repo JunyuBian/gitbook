@@ -49,6 +49,7 @@
 * [电视剧](dian-shi-ju.md)
 * [游戏](you-xi.md)
 * [博主](bo-zhu.md)
+* [摄影](she-ying.md)
 
 ## people management
 
