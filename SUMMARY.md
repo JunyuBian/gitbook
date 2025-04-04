@@ -11,6 +11,10 @@
 * [Prompt Engineering Tips](lm/prompt-engineering-tips.md)
 * [关于Deepseek模型跳过思考过程的问题](lm/guan-yu-deepseek-mo-xing-tiao-guo-si-kao-guo-cheng-de-wen-ti.md)
 
+***
+
+* [关于ollama代理配置的问题](guan-yu-ollama-dai-li-pei-zhi-de-wen-ti.md)
+
 ## cloud native
 
 * [关于kubernetes中label、namespace、annotation的思考](cloud-native/guan-yu-kubernetes-zhong-labelnamespaceannotation-de-si-kao.md)
