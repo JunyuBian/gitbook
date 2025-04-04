@@ -1,6 +1,6 @@
 # 关于llamaindex中LLMRerank的用法
 
-关于今天提出的用LLM作为Reranker，从而通过prompt engineering控制rerank结果的想法，我做了如下尝试：
+关于今天提出的用LLM作为Reranker，从而通过prompt engineering控制rerank结果的想法，我基于llamaindex的[LLMRerank](https://docs.llamaindex.ai/en/stable/api_reference/postprocessor/llm_rerank/)做了如下尝试：
 
 前面几步比较常规，首先是通过SimpleDirectoryReader加载文档：
 
