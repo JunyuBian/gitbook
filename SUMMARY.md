@@ -14,6 +14,7 @@
 ***
 
 * [关于ollama代理配置的问题](guan-yu-ollama-dai-li-pei-zhi-de-wen-ti.md)
+* [关于llamaindex中LLMRerank的用法](guan-yu-llamaindex-zhong-llmrerank-de-yong-fa.md)
 
 ## cloud native
 
