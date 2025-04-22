@@ -49,15 +49,12 @@
 ## life notes
 
 * [记事用途](life-notes/ji-shi-yong-tu.md)
+* [电影](life-notes/dian-ying.md)
+* [电视剧](life-notes/dian-shi-ju.md)
+* [游戏](life-notes/you-xi.md)
+* [博主](life-notes/bo-zhu.md)
+* [摄影](life-notes/she-ying.md)
 * [网购](life-notes/wang-gou.md)
-
-***
-
-* [电影](dian-ying.md)
-* [电视剧](dian-shi-ju.md)
-* [游戏](you-xi.md)
-* [博主](bo-zhu.md)
-* [摄影](she-ying.md)
 
 ## people management
 
