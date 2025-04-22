@@ -47,6 +47,7 @@
 
 ## life notes
 
+* [记事用途](life-notes/ji-shi-yong-tu.md)
 * [网购](life-notes/wang-gou.md)
 
 ***
