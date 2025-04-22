@@ -16,6 +16,7 @@
 * [关于ollama代理配置的问题](guan-yu-ollama-dai-li-pei-zhi-de-wen-ti.md)
 * [关于llamaindex中LLMRerank的用法](guan-yu-llamaindex-zhong-llmrerank-de-yong-fa.md)
 * [关于ollama拉取镜像时certificate x509的报错](guan-yu-ollama-la-qu-jing-xiang-shi-certificate-x509-de-bao-cuo.md)
+* [关于调试Prompt的迭代流程](guan-yu-tiao-shi-prompt-de-die-dai-liu-cheng.md)
 
 ## cloud native
 
