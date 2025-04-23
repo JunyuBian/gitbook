@@ -54,7 +54,12 @@
 * [游戏](life-notes/you-xi.md)
 * [博主](life-notes/bo-zhu.md)
 * [摄影](life-notes/she-ying.md)
+* [股市](life-notes/gu-shi.md)
 * [网购](life-notes/wang-gou.md)
+
+***
+
+* [Mindset](mindset.md)
 
 ## people management
 
