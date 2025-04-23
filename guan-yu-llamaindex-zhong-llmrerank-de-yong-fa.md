@@ -114,7 +114,7 @@ reranker = LLMRerank(
    * `initial_results.extend([...])` 将选择的节点和相关性分数添加到 `initial_results` 列表中。
    * 每个节点被包装成 `NodeWithScore` 对象，其中包含节点和其相关性分数。
 
-简单来说，llamaindex在实现的过程中，把拿到的带有score的node，分批次打分，并放入结果列表里，最后返回得分比较高的node。
+简单来说，llamaindex在实现的过程中，把拿到的带有score的node，分批次打分，并append结果列表里，循环打分结束，返回列表里得分比较高的node。
 
 这样会导致一些问题，比如，batch size不同，大模型可能会产生不同的打分；比如，node出现的位置、顺序不同，可能会出现不同的打分等。对于这些问题的处理有待提升。
 
