@@ -15,22 +15,3 @@ build方式参考：[https://github.com/Syllo/nvtop?tab=readme-ov-file#nvtop](ht
 在build时需要设置：`-DINTEL_SUPPORT=ON`
 
 build结束后，需要在build路径中，找到可执行的nvtop文件运行。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
