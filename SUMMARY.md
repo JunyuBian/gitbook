@@ -31,6 +31,7 @@
 ***
 
 * [关于OneBOM的收集（附脚本）](guan-yu-onebom-de-shou-ji-fu-jiao-ben.md)
+* [关于Intel GPU占用的查询方法](guan-yu-intel-gpu-zhan-yong-de-cha-xun-fang-fa.md)
 
 ## Getting Started
 
