@@ -22,7 +22,7 @@ build结束后，需要在build路径中，找到可执行的nvtop文件运行�
 
 使用样例：
 
-```
+```bash
 xpu-smi dump -m 5
 
 Timestamp, DeviceId, GPU Memory Utilization (%)
