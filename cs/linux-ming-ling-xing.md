@@ -106,6 +106,12 @@ from pprint import pprint
 pprint(vars)
 ```
 
+## \[watch] 固定间隔运行程序
+
+```bash
+watch -n 1 docker ps
+```
+
 ## \[lsof] 查询占用端口的进程号
 
 ```bash
