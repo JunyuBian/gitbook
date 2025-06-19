@@ -1,11 +1,6 @@
 ---
-icon: up
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
+icon: hand-point-left
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -18,5 +13,5 @@ layout:
     visible: true
 ---
 
-# Use above drop-down to shift topics...
+# Use this drop-down to shift topics...
 

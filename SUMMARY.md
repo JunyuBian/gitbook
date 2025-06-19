@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Use above drop-down to shift topics...](README.md)
+* [Use this drop-down to shift topics...](README.md)
