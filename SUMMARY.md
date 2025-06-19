@@ -34,20 +34,6 @@
 * [关于Intel GPU占用的查询方法](guan-yu-intel-gpu-zhan-yong-de-cha-xun-fang-fa.md)
 * [Ubuntu Patch/Git Patch的用法](ubuntu-patchgit-patch-de-yong-fa.md)
 
-## Getting Started
-
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
-
-## Basics
-
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
-
 ## life notes
 
 * [Mindset](mindset.md)
