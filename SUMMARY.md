@@ -50,7 +50,7 @@
 
 ## life notes
 
-* [Mindset](life-notes/mindset.md)
+* [Mindset](mindset.md)
 * [记事用途](life-notes/ji-shi-yong-tu.md)
 * [电影](life-notes/dian-ying.md)
 * [电视剧](life-notes/dian-shi-ju.md)
