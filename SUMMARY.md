@@ -32,6 +32,7 @@
 
 * [关于OneBOM的收集（附脚本）](guan-yu-onebom-de-shou-ji-fu-jiao-ben.md)
 * [关于Intel GPU占用的查询方法](guan-yu-intel-gpu-zhan-yong-de-cha-xun-fang-fa.md)
+* [Ubuntu Patch/Git Patch的用法](ubuntu-patchgit-patch-de-yong-fa.md)
 
 ## Getting Started
 
@@ -49,6 +50,7 @@
 
 ## life notes
 
+* [Mindset](life-notes/mindset.md)
 * [记事用途](life-notes/ji-shi-yong-tu.md)
 * [电影](life-notes/dian-ying.md)
 * [电视剧](life-notes/dian-shi-ju.md)
@@ -57,12 +59,3 @@
 * [摄影](life-notes/she-ying.md)
 * [股市](life-notes/gu-shi.md)
 * [网购](life-notes/wang-gou.md)
-
-***
-
-* [Mindset](mindset.md)
-
-## people management
-
-* [在和Y博沟通中得到的启发](people-management/zai-heybo-gou-tong-zhong-de-dao-de-qi-fa.md)
-* [关于项目中的模糊问题](people-management/guan-yu-xiang-mu-zhong-de-mo-hu-wen-ti.md)
