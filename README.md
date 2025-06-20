@@ -1,5 +1,4 @@
 ---
-icon: hand-point-left
 layout:
   title:
     visible: true
@@ -13,5 +12,5 @@ layout:
     visible: true
 ---
 
-# Use this drop-down to shift topics...
+# ↖️ Use this drop-down to shift topics...
 
