@@ -12,5 +12,5 @@ layout:
     visible: true
 ---
 
-# ↖️ Use this drop-down to shift topics...
+# ⬅️ Use this drop-down to shift topics...
 
