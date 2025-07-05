@@ -124,13 +124,13 @@ sudo lsof -i :<port_number>
 
 在tmux外部
 
-```
+```bash
 tmux rename-session -t <pre_name> <new_name>
 ```
 
 在tmux内部
 
-```
+```basic
 tmux rename-session <new_name>
 ```
 

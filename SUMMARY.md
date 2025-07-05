@@ -5,4 +5,4 @@
 * [关于pdb的初步使用](guan-yu-pdb-de-chu-bu-shi-yong.md)
 * [关于OneBOM的收集（附脚本）](guan-yu-onebom-de-shou-ji-fu-jiao-ben.md)
 * [关于Intel GPU占用的查询方法](guan-yu-intel-gpu-zhan-yong-de-cha-xun-fang-fa.md)
-* [Ubuntu Patch/Git Patch的用法](ubuntu-patchgit-patch-de-yong-fa.md)
+* [Linux Patch/Git Patch的用法](linux-patchgit-patch-de-yong-fa.md)
