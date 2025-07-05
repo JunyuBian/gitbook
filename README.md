@@ -117,3 +117,23 @@ watch -n 1 docker ps
 ```bash
 sudo lsof -i :<port_number>
 ```
+
+## \[tmux] 给会话重命名
+
+### 命令行重命名
+
+在tmux外部
+
+```
+tmux rename-session -t <pre_name> <new_name>
+```
+
+在tmux内部
+
+```
+tmux rename-session <new_name>
+```
+
+### 内部快捷键
+
+`ctrl+b` 然后`$` ，再输入新会话名
