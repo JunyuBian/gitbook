@@ -10,6 +10,4 @@
 * [关于llamaindex中LLMRerank的用法](guan-yu-llamaindex-zhong-llmrerank-de-yong-fa.md)
 * [关于ollama拉取镜像时certificate x509的报错](guan-yu-ollama-la-qu-jing-xiang-shi-certificate-x509-de-bao-cuo.md)
 * [关于调试Prompt的迭代流程](guan-yu-tiao-shi-prompt-de-die-dai-liu-cheng.md)
-* [关于OneBOM的收集（附脚本）](guan-yu-onebom-de-shou-ji-fu-jiao-ben.md)
-* [关于Intel GPU占用的查询方法](guan-yu-intel-gpu-zhan-yong-de-cha-xun-fang-fa.md)
-* [Ubuntu Patch/Git Patch的用法](ubuntu-patchgit-patch-de-yong-fa.md)
+* [RAG异步函数流式输出解决方案](rag-yi-bu-han-shu-liu-shi-shu-chu-jie-jue-fang-an.md)
