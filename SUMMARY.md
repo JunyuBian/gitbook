@@ -11,3 +11,4 @@
 * [关于ollama拉取镜像时certificate x509的报错](guan-yu-ollama-la-qu-jing-xiang-shi-certificate-x509-de-bao-cuo.md)
 * [关于调试Prompt的迭代流程](guan-yu-tiao-shi-prompt-de-die-dai-liu-cheng.md)
 * [RAG异步函数流式输出解决方案](rag-yi-bu-han-shu-liu-shi-shu-chu-jie-jue-fang-an.md)
+* [关于Ollama拉镜像timeout的问题](guan-yu-ollama-la-jing-xiang-timeout-de-wen-ti.md)
