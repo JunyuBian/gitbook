@@ -137,3 +137,17 @@ tmux rename-session <new_name>
 ### 内部快捷键
 
 `ctrl+b` 然后`$` ，再输入新会话名
+
+## \[tar]压缩与解压缩
+
+```bash
+# .tar.gz 和 .tgz
+tar -zxvf FileName.tar.gz               # 解压
+tar -zcvf FileName.tar.gz DirName       # 将DirName和其下所有文件（夹）压缩
+tar -C DesDirName -zxvf FileName.tar.gz # 解压到目标路径
+————————————————
+
+                            版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
+                        
+原文链接：https://blog.csdn.net/songbinxu/article/details/80435665
+```
