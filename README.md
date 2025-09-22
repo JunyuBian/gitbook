@@ -151,3 +151,9 @@ tar -C DesDirName -zxvf FileName.tar.gz # 解压到目标路径
                         
 原文链接：https://blog.csdn.net/songbinxu/article/details/80435665
 ```
+
+## \[du] check system storage
+
+```
+du -h --max-depth=1
+```
