@@ -12,4 +12,4 @@
 * [关于调试Prompt的迭代流程](guan-yu-tiao-shi-prompt-de-die-dai-liu-cheng.md)
 * [RAG异步函数流式输出解决方案](rag-yi-bu-han-shu-liu-shi-shu-chu-jie-jue-fang-an.md)
 * [关于Ollama拉镜像timeout的问题](guan-yu-ollama-la-jing-xiang-timeout-de-wen-ti.md)
-* [关于agentic RAG回答评分很低的bug](guan-yu-agentic-rag-hui-da-ping-fen-hen-di-de-bug.md)
+* [关于Agentic RAG回答评分很低的bug](guan-yu-agentic-rag-hui-da-ping-fen-hen-di-de-bug.md)
