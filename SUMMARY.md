@@ -6,3 +6,4 @@
 * [关于OneBOM的收集（附脚本）](guan-yu-onebom-de-shou-ji-fu-jiao-ben.md)
 * [关于Intel GPU占用的查询方法](guan-yu-intel-gpu-zhan-yong-de-cha-xun-fang-fa.md)
 * [Linux Patch/Git Patch的用法](linux-patchgit-patch-de-yong-fa.md)
+* [关于ubuntu上docker overlay文件被删除的恢复](guan-yu-ubuntu-shang-docker-overlay-wen-jian-bei-shan-chu-de-hui-fu.md)
